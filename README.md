@@ -17,7 +17,7 @@ Pastikan Anda telah menginstal Python di sistem Anda.
    ```
 2. Masuk ke direktori proyek:
    ```bash
-   cd KoreksiKata---ALGEO-IF2123
+   cd AplikasiFungsiHash-Matdis
    ```
 
 ## Cara Penggunaan
