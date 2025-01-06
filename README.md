@@ -1,5 +1,8 @@
 # Optimalisasi Penyimpanan dan Pencarian Kata pada Kamus Bahasa Indonesia Menggunakan Fungsi Hash Berbasis Teori Bilangan
 
+![Alt Text](asset/image1.png)
+![Alt Text](asset/image2.png)
+
 Proyek ini merupakan implementasi program dari makalah Matematika Diskrit dengan judul "Optimalisasi Penyimpanan dan Pencarian Kata pada Kamus Bahasa Indonesia Menggunakan Fungsi Hash Berbasis Teori Bilangan"
 
 ## Persyaratan
