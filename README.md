@@ -4,6 +4,10 @@
 ![Alt Text](asset/image2.png)
 
 Proyek ini merupakan implementasi program dari makalah Matematika Diskrit dengan judul "Optimalisasi Penyimpanan dan Pencarian Kata pada Kamus Bahasa Indonesia Menggunakan Fungsi Hash Berbasis Teori Bilangan"
+<br>
+🔗 : https://informatika.stei.itb.ac.id/~rinaldi.munir/Matdis/2024-2025/Makalah/Makalah-IF1220-Matdis-2024%20(97).pdf
+
+
 
 ## Persyaratan
 
